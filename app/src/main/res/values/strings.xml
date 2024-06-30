@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Jetpack Compose Demo001</string>
+    <string name="icon_text">Home</string>
+    <string name="go_back_text">Go Back</string>
+    <string name="go_third_text">Go To Third Page</string>
+    <string name="go_Home_text">Go To Home Page</string>
+    <string name="third_screen_text">Third Screen</string>
+    <string name="second_screen_text">Second Screen</string>
+    <string name="home_screen_text">Home Screen</string>
+    <string name="click_me_text">Click me</string>
+    <string name="one_image">1k+</string>
 </resources>
